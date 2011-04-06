@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+puts "You entered this as args:"
+puts ARGV.inspect
+
+abort "You need to write me! But then again this is just an example. You get the point :)"

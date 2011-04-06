@@ -1,0 +1,9 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/rubymanpages
+lib/rubymanpages.rb
+test/test_rubymanpages.rb
+man/rubymanpages.1.gz
